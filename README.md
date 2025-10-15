@@ -52,13 +52,12 @@ This comprehensive hydrogeophysical study integrates **Electrical Resistivity To
 ### Python Libraries Used
 
 #### Core Data Processing
-```python
-import pandas as pd          # Data manipulation and analysis
-import numpy as np           # Numerical computing
-import pygimli as pg         # Geophysical inversion and modeling
-import matplotlib.pyplot as plt  # 2D plotting and visualization
-import seaborn as sns           # Statistical data visualization
-import plotly.graph_objects as go # Interactive plots
+- **pandas as pd**        # Data manipulation and analysis
+- **numpy as np**          # Numerical computing
+- **pygimli as pg**         # Geophysical inversion and modeling
+- **matplotlib.pyplot as plt**  # 2D plotting and visualization
+- **seaborn as sns**           # Statistical data visualization
+- **plotly.graph_objects as go** # Interactive plots
 
 
 ### Data Integration Approach
@@ -70,8 +69,8 @@ import plotly.graph_objects as go # Interactive plots
 
 ### Hydrogeological Framework
 
-- **Resistivity Range: 0.4 - 1776 Ωm across study area
-- **Saline Intrusion: Identified in shallow to medium depths (20-80m)
+- **Resistivity Range**: 0.4 - 1776 Ωm across study area
+- **Saline Intrusion**: Identified in shallow to medium depths (20-80m)
 - **Shallow Aquifers** (60-120m): Vulnerable to saline intrusion with thin protective layers
 - **Deep Aquifers** (>140m): Protected by thick clay-peat seals (10-30m thickness)
 - **Transition Zone**: 70-90m depth with variable salinity conditions
