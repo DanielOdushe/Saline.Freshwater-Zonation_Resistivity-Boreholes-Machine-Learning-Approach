@@ -1,0 +1,22 @@
+# Jupyter
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+
+# Data & outputs
+Outputs/
+Data/*.xlsx
+Data/*.las
+Data/*.dat
+
+# System files
+Thumbs.db
+.DS_Store
+nul
+# Python
+__pycache__/
+*.pyc
+
+# VSCode/PyCharm
+.vscode/
+.idea/
+
